@@ -1,6 +1,6 @@
-# TIET-SummerSchool-2025
+# 🌟TIET-Summer School-2025🌟
 
-🌟 **Summer School on Machine Learning & Deep Learning**
+## 🌟 **Summer School on Machine Learning & Deep Learning**
 
 Welcome to my official GitHub repository for the **TIET Summer School 2025** on Machine Learning and Deep Learning.
 
@@ -52,4 +52,17 @@ This summer school wasn’t just about theory — it was a deep dive into buildi
 | 25  | TIET-SS-MiniProject-25-ColoredVideotoGrey         | Convert each frame of a video to greyscale                  | [View Repository](https://github.com/pehal6/Mini-Project-25) |
 | 26  | TIET-SS-MiniProject-26-ResizeVideoto50Percent     | Reduce video resolution by half using OpenCV                | [View Repository](https://github.com/pehal6/Mini-Project-26) |
 
- 
+🙌 This repository will stay up-to-date as I build and share more hands-on work.
+
+---
+
+## 👤 Maintained By
+
+**Pehal**  
+B.Tech in Computer Science and Engineering  
+Thapar Institute of Engineering & Technology, Patiala  
+🔗 GitHub: [pehal6](https://github.com/pehal6)  
+🔗 LinkedIn: [linkedin.com/in/pehal-163293323](https://www.linkedin.com/in/pehal-163293323/)
+
+---
+
