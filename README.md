@@ -51,7 +51,7 @@ This summer school wasn’t just about theory — it was a deep dive into buildi
 | 24  | TIET-SS-MiniProject-24-Resizeto50Percent          | Scale down image dimensions by 50% in batch                 | [View Repository](https://github.com/pehal6/Mini-Project-24) |
 | 25  | TIET-SS-MiniProject-25-ColoredVideotoGrey         | Convert each frame of a video to greyscale                  | [View Repository](https://github.com/pehal6/Mini-Project-25) |
 | 26  | TIET-SS-MiniProject-26-ResizeVideoto50Percent     | Reduce video resolution by half using OpenCV                | [View Repository](https://github.com/pehal6/Mini-Project-26) |
-| 27  | TIET-SS-MiniProject-27-LangChainBasics         | Intro to LangChain and building RAG apps                  | [View Repository]([https://github.com/pehal6/LangChain-Basics](https://github.com/pehal6/Lang-Chain))  |
+| 27  | TIET-SS-MiniProject-27-LangChainBasics         | Intro to LangChain and building RAG apps                  | [View Repository](https://github.com/pehal6/Lang-Chain))  |
 | 28  | TIET-SS-MiniProject-28-MLMobileAppFlutter      | ML model integration in mobile apps using Flutter         | [View Repository]([https://github.com/pehal6/ML-MobileApp-Flutter](https://github.com/pehal6/Flutter)) |
 | 29  | TIET-SS-MiniProject-29-IoTCalculator           | Basic calculator built with IoT components in Tinkercad   | [View Repository](https://github.com/pehal6/IoT-Calculator)    |
 | 30  | TIET-SS-MiniProject-30-ANNClassifier           | Artificial Neural Network for basic classification task   | [View Repository](https://github.com/pehal6/ANN-Classifier)    |
