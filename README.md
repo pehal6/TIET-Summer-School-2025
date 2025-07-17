@@ -51,7 +51,34 @@ This summer school wasn’t just about theory — it was a deep dive into buildi
 | 24  | TIET-SS-MiniProject-24-Resizeto50Percent          | Scale down image dimensions by 50% in batch                 | [View Repository](https://github.com/pehal6/Mini-Project-24) |
 | 25  | TIET-SS-MiniProject-25-ColoredVideotoGrey         | Convert each frame of a video to greyscale                  | [View Repository](https://github.com/pehal6/Mini-Project-25) |
 | 26  | TIET-SS-MiniProject-26-ResizeVideoto50Percent     | Reduce video resolution by half using OpenCV                | [View Repository](https://github.com/pehal6/Mini-Project-26) |
+| 27  | TIET-SS-MiniProject-27-LangChainBasics         | Intro to LangChain and building RAG apps                  | [View Repository]([https://github.com/pehal6/LangChain-Basics](https://github.com/pehal6/Lang-Chain))  |
+| 28  | TIET-SS-MiniProject-28-MLMobileAppFlutter      | ML model integration in mobile apps using Flutter         | [View Repository]([https://github.com/pehal6/ML-MobileApp-Flutter](https://github.com/pehal6/Flutter)) |
+| 29  | TIET-SS-MiniProject-29-IoTCalculator           | Basic calculator built with IoT components in Tinkercad   | [View Repository](https://github.com/pehal6/IoT-Calculator)    |
+| 30  | TIET-SS-MiniProject-30-ANNClassifier           | Artificial Neural Network for basic classification task   | [View Repository](https://github.com/pehal6/ANN-Classifier)    |
+| 31  | TIET-SS-MiniProject-31-QRScannerApp            | Flutter app that scans QR codes and displays data         | [View Repository](https://github.com/pehal6/QR-Scanner-App)    |
+| 32  | TIET-SS-MiniProject-32-SinglePassCompiler      | Simple single pass compiler implementation in Python      | [View Repository](https://github.com/pehal6/SinglePassCompiler)|
+| 33  | TIET-SS-MiniProject-33-ImageBlending           | Blend two images using OpenCV with smooth transitions     | [View Repository](https://github.com/pehal6/OpenCV-Image-Blending) |
+| 34  | TIET-SS-MiniProject-34-BackgroundRemover       | Remove image backgrounds using segmentation techniques    | [View Repository](https://github.com/pehal6/OpenCV-BackgroundRemover) |
+| 35  | TIET-SS-MiniProject-35-ImageCartoonifier       | Turn any photo into a cartoon-style image using OpenCV    | [View Repository](https://github.com/pehal6/OpenCV-ImageCartoonifier) |
+| 36  | TIET-SS-MiniProject-36-CSVtoJSONConverter      | Convert any CSV dataset into a JSON format                | [View Repository](https://github.com/pehal6/CSV-to-JSON-Converter) |
+| 37  | TIET-SS-MiniProject-37-ImagetoPDF              | Convert images into a single PDF document                 | [View Repository](https://github.com/pehal6/Image-to-PDF)      |
+| 38  | TIET-SS-MiniProject-38-FileRenamer             | Easily rename multiple files using Python                 | [View Repository](https://github.com/pehal6/File-Renamer)      |
+| 39  | TIET-SS-MiniProject-39-URLShortener            | Shorten long URLs into quick, shareable links             | [View Repository](https://github.com/pehal6/URL-Shortener)     |
+| 40  | TIET-SS-MiniProject-40-Stopwatch               | A stopwatch with start, stop, and reset functionalities   | [View Repository](https://github.com/pehal6/Stopwatch-in-Python) |
+| 41  | TIET-SS-MiniProject-41-AlarmClock              | Set alarms in real time with custom sound alerts          | [View Repository](https://github.com/pehal6/Alarm-Clock-in-Python) |
+| 42  | TIET-SS-MiniProject-42-TypingSpeedTest         | Test your typing speed with accuracy results              | [View Repository](https://github.com/pehal6/Typing-Speed-Test) |
+| 43  | TIET-SS-MiniProject-43-AgeCalculator           | Enter your birthdate and calculate your age in seconds    | [View Repository](https://github.com/pehal6/Age-Calculator)    |
+| 44  | TIET-SS-MiniProject-44-ImageResizer            | Resize images to desired dimensions using Python          | [View Repository](https://github.com/pehal6/Image-Resizer)     |
+| 45  | TIET-SS-MiniProject-45-CurrentWeatherFetcher   | Get live weather data for any city via API                | [View Repository](https://github.com/pehal6/Current-Weather-Fetcher) |
+| 46  | TIET-SS-MiniProject-46-InternetSpeedTester     | Measure your internet download and upload speed           | [View Repository](https://github.com/pehal6/Internet-Speed-Tester) |
+| 47  | TIET-SS-MiniProject-47-FunFactGenerator        | Generate fun facts randomly with a single click           | [View Repository](https://github.com/pehal6/Random-Fun-Fact-Generator) |
+| 48  | TIET-SS-MiniProject-48-DigitalDiceRoller       | Simulate a dice roll digitally with randomness            | [View Repository](https://github.com/pehal6/Digital-Dice-Roller) |
+| 49  | TIET-SS-MiniProject-49-WikipediaSummarizer     | Summarize long Wikipedia articles into short insights     | [View Repository](https://github.com/pehal6/Wikipedia-Article-Summarizer) |
 
+
+A continuation of creative and practical projects from the TIET Summer School 2025. This segment (Projects 51 to 27) covers Python automation, OpenCV image tools, PDF utilities, fun apps, and more.
+
+|
 🙌 This repository will stay up-to-date as I build and share more hands-on work.
 
 ---
