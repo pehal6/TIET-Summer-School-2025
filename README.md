@@ -74,7 +74,8 @@ This summer school wasn’t just about theory — it was a deep dive into buildi
 | 47  | TIET-SS-MiniProject-47-FunFactGenerator        | Generate fun facts randomly with a single click           | [View Repository](https://github.com/pehal6/Random-Fun-Fact) |
 | 48  | TIET-SS-MiniProject-48-DigitalDiceRoller       | Simulate a dice roll digitally with randomness            | [View Repository](https://github.com/pehal6/Digital-Dice) |
 | 49  | TIET-SS-MiniProject-49-WikipediaSummarizer     | Summarize long Wikipedia articles into short insights     | [View Repository](https://github.com/pehal6/Article-Summarizer) |
-🙌 This repository will stay up-to-date as I build and share more hands-on work.
+ 
+ 🙌 This repository will stay up-to-date as I build and share more hands-on work.
 
 ---
 
